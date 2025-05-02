@@ -1,5 +1,5 @@
-import project1 from "../assets/projects/Project-1.png";
-import project2 from "../assets/projects/Project-2.png";
+import project1 from "../assets/projects/Project1.png";
+import project2 from "../assets/projects/Project2.png";
 
 
 export const HERO_CONTENT = "I am a motivated full stack developer and engineering student, passionate about transforming ideas into impactful digital solutions. I enjoy building meaningful user experiences and solving real-world problems through technology. With a strong sense of initiative and a focus on continuous improvement, I strive to create products that are both practical and forward-thinking.";
