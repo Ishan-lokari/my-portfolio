@@ -21,7 +21,7 @@ export const PROJECTS = [
     image: project2,
     description:
       "An application for analyzing and categorizing feedback using sentiment analysis. It allows users to submit feedback, view sentiment results, and track the overall performance of courses and faculty.",
-    technologies: ["react", "tailwind", "Mongo", "flask"],
+    technologies: ["react", "tailwind", "Mongo", "Node.js"],
   },
 ];
 
