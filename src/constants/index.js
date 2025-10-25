@@ -10,20 +10,35 @@ export const EXPERIENCES = [ ];
 
 export const PROJECTS = [
   {
-    title: "Quickcare",
+    title: "QuickCare",
     image: project1,
     description:
-      "A hospital management web application with user and admin dashboard and authentication",
-    technologies: [ "React", "Node.js", "Postgresql"],
+      "QuickCare is a hospital management system that provides separate dashboards for admins and patients. Admins can manage doctors, appointments, and bed availability, while patients can book OPD appointments and request beds. It includes real-time queue tracking for efficiency and a smooth hospital workflow.",
+    technologies: ["React", "Node.js", "PostgreSQL"],
   },
   {
     title: "FeedBot",
     image: project2,
     description:
-      "An application for analyzing and categorizing feedback using sentiment analysis. It allows users to submit feedback, view sentiment results, and track the overall performance of courses and faculty.",
-    technologies: ["react", "tailwind", "Mongo", "Node.js"],
+      "FeedBot is a feedback analysis system that classifies course and faculty feedback into positive, neutral, or negative sentiments using a custom machine learning model. It enables users to submit feedback and allows admins to monitor trends and sentiment statistics for better decision-making.",
+    technologies: ["React", "TailwindCSS", "MongoDB", "Node.js", "Python"],
+  },
+  {
+    title: "MERN Machine Test",
+    image: project3,
+    description:
+      "A web application that reads client or customer data from CSV files and distributes it among agents for management and tracking. It includes CRUD functionality, REST APIs, and a responsive interface to handle agent assignments and data visualization efficiently.",
+    technologies: ["MongoDB", "Express", "React", "Node.js"],
+  },
+  {
+    title: "OneBoxx",
+    image: project4,
+    description:
+      "OneBoxx is an email unification platform that integrates multiple inboxes via IMAP, categorizes emails using Groq AI, and utilizes ElasticSearch for lightning-fast search and indexing. It provides a unified inbox with intelligent categorization and real-time sync.",
+    technologies: ["React", "Node.js", "ElasticSearch", "Groq AI", "IMAP"],
   },
 ];
+
 
 export const CONTACT = {
   address: "Belgaum, Karnataka",
