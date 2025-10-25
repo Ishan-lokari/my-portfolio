@@ -1,6 +1,6 @@
 import project1 from "../assets/projects/Project1.png";
 import project2 from "../assets/projects/Project2.png";
-import project3 from "../assets/projects/project3.png";
+import project3 from "../assets/projects/Project3.png";
 import project4 from "../assets/projects/Project4.png";
 
 
@@ -46,5 +46,5 @@ export const PROJECTS = [
 export const CONTACT = {
   address: "Belgaum, Karnataka",
   phoneNo: "+91 6363863292 ",
-  email: "coolishanlokari@gmail.com",
+  email: "ishanlokari05@gmail.com",
 };
