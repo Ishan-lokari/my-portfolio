@@ -4,6 +4,7 @@ import project3 from "../assets/projects/Project3.png";
 import project4 from "../assets/projects/Project4.png";
 
 
+
 export const HERO_CONTENT = "I am a motivated full stack developer and engineering student, passionate about transforming ideas into impactful digital solutions. I enjoy building meaningful user experiences and solving real-world problems through technology. With a strong sense of initiative and a focus on continuous improvement, I strive to create products that are both practical and forward-thinking.";
 
 export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. I have worked with a variety of technologies, including React, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
